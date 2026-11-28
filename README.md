@@ -1,6 +1,7 @@
 # Team Name
 ## About
 This repository is for our branching and merge conflict activity.
+Our course is in Computer Science 3, from Grade-9 Cesium, and our advisor is Sir Kyle Enorio.
 ## Members
 |           Name           |   Role    |   GitHub Username  | 
 | ------------------------ | --------- | ------------------ |
